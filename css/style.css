@@ -4,3 +4,10 @@
     color: white;
     border: 1px solid white;
 }
+
+.bg-green{
+    background-color: #00e165;
+    padding: 10px;
+    border: 1px solid #006cfa;
+    color: white;
+}
