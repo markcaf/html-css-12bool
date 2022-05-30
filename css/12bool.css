@@ -31,7 +31,10 @@
     max-width: 100%;
  }
  
- 
+ .center {
+    justify-content: center;
+    text-align: center;
+ }
  
  /* 12 system */
  
